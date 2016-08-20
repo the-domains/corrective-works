@@ -1,26 +1,14 @@
-typography_spectrum: 0.001388446893543005
+layout_spectrum: 0.6016045373398811
+typography_spectrum: 0.7895236855838448
 color:
-  brandStrength: 0.960846756817773
-  lightness: 0.052809807704761624
-  saturation: 0.1655947263352573
-  rhythmicContrast: 0.5729993544518948
+  brandStrength: 0.21585137187503278
+  lightness: 0.007687259931117296
+  saturation: 0.4427235876210034
+  rhythmicContrast: 0.21677461150102317
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.24794487608596683
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Corrective Works
-navigation:
-  - name: Yoga Klassen
-    id: ee62b3db-fb60-410e-85d7-825af3690c1d
-    type: content
-  - name: Rolfing Sitzungen
-    id: 14de33ac-58ca-4439-b44b-308a35b2cf4d
-    type: content
-  - name: Jetzt Termin buchen
-    url: 'http://www.correctiveworks.com/'
-    type: external
-title: Rolfing und Yoga München
-description: Jetzt Termin buchen
