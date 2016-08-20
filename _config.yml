@@ -19,8 +19,5 @@ navigation:
   - name: Rolfing Sitzungen
     id: 14de33ac-58ca-4439-b44b-308a35b2cf4d
     type: content
-  - name: Corrective Works YouTube Channel
-    url: 'https://www.youtube.com/channel/UCgY5Q8QKtaiaKoWzH5KNTKg'
-    type: external
 title: Rolfing and Yoga Munich
 description: Jetzt Termin buchen
