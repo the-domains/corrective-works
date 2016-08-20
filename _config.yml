@@ -1,16 +1,16 @@
 layout_spectrum: 0.24794487608596683
-typography_spectrum: 0.5556055647321045
+typography_spectrum: 0.001388446893543005
 color:
-  brandStrength: 0.590801443438977
-  lightness: 0.09285164647735655
-  saturation: 0.24319718941114843
-  rhythmicContrast: 0.8238367286976427
+  brandStrength: 0.960846756817773
+  lightness: 0.052809807704761624
+  saturation: 0.1655947263352573
+  rhythmicContrast: 0.5729993544518948
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Corrective Works
 title: Rolfing and Yoga Munich
 description: Jetzt Termin buchen
