@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-20T12:19:57.938Z'
+sourcePath: _posts/2016-08-20-kann-rolfing-yogis-und-yoginis-vor-verletzungen-schutzen.md
+author: []
+via: {}
+dateModified: '2016-08-20T12:19:57.259Z'
+title: Kann Rolfing Yogis und Yoginis vor Verletzungen schützen?
+publisher: {}
 description: >-
   Spätestens seit dem berühmten Artikel in der New York Times „How Yoga Can
   Wreck Your Body“ wurde der westlichen Welt klar, dass Yoga nicht nur zu mehr
@@ -6,14 +13,7 @@ description: >-
   Artikel ist von gerissenen Achilles-Sehnen, versteiften Hüften und
   Rückenverletzungen die Rede. Was ist die Ursache für diese Verletzungen?
   Könnte Rolfing Yoga-Praktizierende von diesen Verletzungen schützen?
-dateModified: '2016-08-20T12:05:57.163Z'
-datePublished: '2016-08-20T12:06:54.117Z'
-title: Kann Rolfing Yogis und Yoginis vor Verletzungen schützen?
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-20-kann-rolfing-yogis-und-yoginis-vor-verletzungen-schutzen.md
 inFeed: true
 hasPage: false
 inNav: false
