@@ -16,5 +16,8 @@ navigation:
   - name: Yoga Klassen
     id: ee62b3db-fb60-410e-85d7-825af3690c1d
     type: content
+  - name: Rolfing Sitzungen
+    id: 14de33ac-58ca-4439-b44b-308a35b2cf4d
+    type: content
 title: Rolfing and Yoga Munich
 description: Jetzt Termin buchen
