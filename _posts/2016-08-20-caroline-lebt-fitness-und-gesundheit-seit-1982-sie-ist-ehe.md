@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-20T12:16:31.133Z'
+datePublished: '2016-08-20T12:17:40.152Z'
 sourcePath: >-
   _posts/2016-08-20-caroline-lebt-fitness-und-gesundheit-seit-1982-sie-ist-ehe.md
 author: []
 via: {}
-dateModified: '2016-08-20T12:16:30.645Z'
+dateModified: '2016-08-20T12:17:39.727Z'
 title: ''
 publisher: {}
-description: Caroline Wirthle - Certified Rolfer
+description: r
 starred: false
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Caroline Wirthle - Certified Rolfer
+r
 ![Caroline lebt Fitness und Gesundheit seit 1982. 
 Sie ist ehemalige Kreismeisterin im Leichtathletik Vierkampf und Vize-Nordrheinmeisterin im Diskuswurf.
 Nach ihrer Karriere in der Leichathletik begann Sie 2003 Ihre Ausbilung zur Fitness und Aerobic Trainerin und ist seitdem als Animateurin, Personal Trainerin und Kursleiterin in Deutschland, Frankreich und Marokko tätig.
