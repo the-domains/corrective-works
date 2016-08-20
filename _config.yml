@@ -1,4 +1,3 @@
-layout_spectrum: 0.24794487608596683
 typography_spectrum: 0.001388446893543005
 color:
   brandStrength: 0.960846756817773
@@ -11,6 +10,11 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.24794487608596683
 name: Corrective Works
+navigation:
+  - name: Yoga Klassen
+    id: ee62b3db-fb60-410e-85d7-825af3690c1d
+    type: content
 title: Rolfing and Yoga Munich
 description: Jetzt Termin buchen
