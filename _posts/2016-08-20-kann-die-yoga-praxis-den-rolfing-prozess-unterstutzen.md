@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-20T12:18:36.561Z'
+sourcePath: _posts/2016-08-20-kann-die-yoga-praxis-den-rolfing-prozess-unterstutzen.md
+author: []
+via: {}
+dateModified: '2016-08-20T12:18:36.138Z'
+title: Kann die Yoga Praxis den Rolfing Prozess unterstützen?
+publisher: {}
 description: >-
   Immer mehr Rolfer bringen Bewegungsarbeit in Ihre Sitzungen mit ein. Hier gibt
   es zum Einen den von Hubert Godard entwickelten Ansatz des Rolfing Movement,
@@ -6,20 +13,15 @@ description: >-
   unterstützt. Können wir Rolfing über das Praktizieren von Yoga als
   Bewegungsform eventuell noch besser verstehen und verkörpern? Und welches
   Potential steckt im Vermitteln von Yoga Übungen für den Rolfing Klienten?
-dateModified: '2016-08-20T12:08:47.682Z'
-datePublished: '2016-08-20T12:08:54.496Z'
-title: Kann die Yoga Praxis den Rolfing Prozess unterstützen?
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-20-kann-die-yoga-praxis-den-rolfing-prozess-unterstutzen.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93fb54c2-d859-41a0-90f5-4abb97c9d484.jpg)
+
 # Kann die Yoga Praxis den Rolfing Prozess unterstützen?
 
 Immer mehr Rolfer bringen Bewegungsarbeit in Ihre Sitzungen mit ein. Hier gibt es zum Einen den von Hubert Godard entwickelten Ansatz des Rolfing Movement, zum Anderen finden viele Rolfer, dass die Yoga Praxis die Rolfing Arbeit unterstützt. Können wir Rolfing über das Praktizieren von Yoga als Bewegungsform eventuell noch besser verstehen und verkörpern? Und welches Potential steckt im Vermitteln von Yoga Übungen für den Rolfing Klienten?
